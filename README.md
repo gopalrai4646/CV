@@ -1,3 +1,4 @@
 # CV.
-# student
-gopal
+# student at IIIT BHOPAL
+Gopal rai 
+branch-Electronic and communication Engineering
